@@ -12,3 +12,5 @@
 ###### We are going to use Tax Jar as one of our calculators.  You will need to write a .Net client to talk to their API, do not use theirs.  
 ###### The Tax Service will also have these methods and simply call the Tax Calculator.  Eventually we would have several Tax Calculators and the Tax Service would need to decide which to use based on the Customer that is consuming the Tax Service. 
 
+# Architectural Diagram
+![Arch](InternationalMarket.Services.Architecture.png)
