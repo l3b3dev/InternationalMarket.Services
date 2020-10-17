@@ -25,10 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternationalMarket.Service
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternationalMarket.BusinessEntity.Liability", "InternationalMarket.BusinessEntity.Liability\InternationalMarket.BusinessEntity.Liability.csproj", "{628C6B20-C9EA-40BE-9D47-C076BD6EBF29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternationalMarket.Services.UnitTests", "InternationalMarket.Services.UnitTests\InternationalMarket.Services.UnitTests.csproj", "{0A2C921F-9318-4846-BFF7-5A08D2E670CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternationalMarket.Services.UnitTests", "InternationalMarket.Services.UnitTests\InternationalMarket.Services.UnitTests.csproj", "{0A2C921F-9318-4846-BFF7-5A08D2E670CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{443CC328-3DE9-49D8-87D2-797789C8F088}"
 	ProjectSection(SolutionItems) = preProject
+		InternationalMarket.Services.Architecture.png = InternationalMarket.Services.Architecture.png
 		README.md = README.md
 	EndProjectSection
 EndProject
