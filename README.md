@@ -14,3 +14,9 @@
 
 # Architectural Diagram
 ![Arch](InternationalMarket.Services.Architecture.png)
+
+# Minimal Requirements documentation
+* Decide on internal canonical Tax representation in the system
+* Implement central DI strategy
+* Implement central cross cutting concerns
+* Decide on api auth strategy for different integrations
